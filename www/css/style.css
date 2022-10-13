@@ -17,6 +17,9 @@ html,body {
 #btn {
   font-size: 2em;
 }
+#disp1{
+    font-size: x-large
+}
 
 #btn::after {
   content: "▶";
